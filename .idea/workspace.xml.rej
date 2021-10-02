@@ -1,0 +1,12 @@
+diff a/.idea/workspace.xml b/.idea/workspace.xml	(rejected hunks)
+@@ -19,7 +19,9 @@
+     <select />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="89724667-f758-4307-9c4c-a04cdad3cf74" name="Default Changelist" comment="本地第si分支" />
++    <list default="true" id="89724667-f758-4307-9c4c-a04cdad3cf74" name="Default Changelist" comment="本地第si分支">
++      <change beforePath="$PROJECT_DIR$/mynewFile" beforeDir="false" afterPath="$PROJECT_DIR$/mynewFile" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
